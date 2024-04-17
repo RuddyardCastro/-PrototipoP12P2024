@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1713370136 source:c:\users\ruddyard\desktop\prototipo2pp12024\main.cpp
+	<iostream>
+
+1713370192 source:c:\users\ruddyard\desktop\prototipo2pp12024\src\reportes.cpp
+	"Reportes.h"
+
+1713370261 c:\users\ruddyard\desktop\prototipo2pp12024\include\reportes.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1713371440 source:c:\users\ruddyard\desktop\exaparcial2\prototipo2pp12024\prototipo2pp12024\main.cpp
+	<Reportes.h>
+	<iostream>
+	<unistd.h>
+
+1713371344 source:c:\users\ruddyard\desktop\exaparcial2\prototipo2pp12024\prototipo2pp12024\src\reportes.cpp
+	"Reportes.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+
+1713371310 c:\users\ruddyard\desktop\exaparcial2\prototipo2pp12024\prototipo2pp12024\include\reportes.h
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
